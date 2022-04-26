@@ -2,22 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>http://example.com/sample1.html</loc>
+    <loc>https://sports.romia.online/2022/04/blog-post.html</loc>
     <image:image>
-      <image:loc>http://example.com/image.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://example.com/photo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://example.com/sample2.html</loc>
-    <image:image>
-      <image:loc>http://example.com/picture.jpg</image:loc>
-      <image:caption>A funny picture of a cat eating cabbage</image:caption>
-      <image:geo_location>Lyon, France</image:geo_location>
-      <image:title>Cat vs Cabbage</image:title>
-      <image:license>http://example.com/image-license</image:license>
+      <image:loc>https://i.ytimg.com/vi/xnhpN6CtbiI/maxresdefault.jpg</image:loc>
+      <image:caption>موعد مباراة الأهلى القادمه بعد مباراة الرجاء المغربي في دوري أبطال أفريقيا الآن عاجل
+</image:caption>
+      <image:geo_location>المغرب , مصر</image:geo_location>
+      <image:title>الأهلي والرجاء</image:title>
     </image:image>
   </url>
 </urlset>
