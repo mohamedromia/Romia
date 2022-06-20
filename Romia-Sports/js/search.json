@@ -1,0 +1,921 @@
+{
+  "search_metadata": {
+    "id": "62b1091b35176471075fbb97",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6a657d778def0d01/62b1091b35176471075fbb97.json",
+    "created_at": "2022-06-20 23:56:11 UTC",
+    "processed_at": "2022-06-20 23:56:11 UTC",
+    "google_url": "https://www.google.com/search?q=manchester+united&oq=manchester+united&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6a657d778def0d01/62b1091b35176471075fbb97.html",
+    "total_time_taken": 1.57
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "manchester united",
+    "location_requested": "austin, texas, united states",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "manchester united",
+    "total_results": 1440000000,
+    "time_taken_displayed": 0.99
+  },
+  "knowledge_graph": {
+    "title": "Manchester United F.C.",
+    "type": "Soccer club",
+    "website": "http://www.manutd.com/",
+    "description": "Manchester United Football Club, commonly referred to as Man United, is a professional football club based in the Old Trafford area of Manchester, England. The club competes in the Premier League, the top division in the English football league system.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Manchester_United_F.C."
+    },
+    "ceo": "Richard Arnold (Feb 2022–) Trending",
+    "ceo_links": [
+      {
+        "text": "CEO",
+        "link": "https://www.google.com/search?q=man+united+ceo&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9BSzE620s8vSk_My6xKLMnMz0PhWCWn5i9i5ctNzFMozcssSU1RAAoAAIv6TeNAAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ6BMoAHoECG8QAg"
+      },
+      {
+        "text": "Richard Arnold",
+        "link": "https://www.google.com/search?q=Richard+Arnold&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy1DiBrEMDU1S4svKtRSzk63084vSE_MyqxJLMvPzUDhWyan5i1j5gjKTMxKLUhQci_Lyc1J2sDLuYmfiYAAAOLnfclUAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQmxMoAXoECG8QAw"
+      },
+      {
+        "text": "Trending",
+        "link": "https://www.google.com/search?q=man+united+ceo&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9BSzE620s8vSk_My6xKLMnMz0PhWCWn5i9i5ctNzFMozcssSU1RAAoAAIv6TeNAAAAA"
+      }
+    ],
+    "manager": "Erik ten Hag",
+    "manager_links": [
+      {
+        "text": "Manager",
+        "link": "https://www.google.com/search?q=man+united+manager&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9BSyE620i_OT05OLdJPy88vSUrMyYkvSU3MtcpNzEtMTy1axCoEZCmU5mWWpKYoQAUBCP5WLEMAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ6BMoAHoECGwQAg"
+      },
+      {
+        "text": "Erik ten Hag",
+        "link": "https://www.google.com/search?q=Erik+ten+Hag&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy1DiArGyjeILS4q1FLKTrfSL85OTU4v00_LzS5ISc3LiS1ITc61yE_MS01OLFrHyuBZlZiuUpOYpeCSm72Bl3MXOxMEAAKwN56JRAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQmxMoAXoECGwQAw"
+      }
+    ],
+    "arena_stadium": "Old Trafford",
+    "arena_stadium_links": [
+      {
+        "text": "Arena/Stadium",
+        "link": "https://www.google.com/search?q=man+united+arena/stadium&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9BSyU620i8uyC8qKYZS8SWpiblWiUWpeYn6xSWJKZmluYtYJXIT8xRK8zJLUlMUUKQAl_7A2E0AAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ6BMoAHoECGsQAg"
+      },
+      {
+        "text": "Old Trafford",
+        "link": "https://www.google.com/search?q=Old+Trafford&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy1DiBLGMDXIKcrRUspOt9IsL8otKiqFUfElqYq5VYlFqXqJ-cUliSmZp7iJWHv-cFIWQosS0tPyilB2sjLvYmTgYAFBechBUAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQmxMoAXoECGsQAw"
+      }
+    ],
+    "founder": "Lancashire and Yorkshire Railway",
+    "founder_links": [
+      {
+        "text": "Founder",
+        "link": "https://www.google.com/search?q=man+united+founder&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9BSz0620k8qLc7MSy0uhjPi8wtSixJLMvPzrNLyS_NSUosWsQrlJuYplOZllqSmKEAFAevky-FKAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ6BMoAHoECGoQAg"
+      },
+      {
+        "text": "Lancashire and Yorkshire Railway",
+        "link": "https://www.google.com/search?q=Lancashire+and+Yorkshire+Railway&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy1DiBLGMCtOL87TUs5Ot9JNKizPzUouL4Yz4_ILUosSSzPw8q7T80ryU1KJFrAo-iXnJicUZmUWpCol5KQqR-UXZEF5QYmZOeWLlDlbGXexMHAwA-paTUmsAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQmxMoAXoECGoQAw"
+      }
+    ],
+    "founded": "1878, Newton Heath, Manchester, United Kingdom",
+    "founded_links": [
+      {
+        "text": "Founded",
+        "link": "https://www.google.com/search?q=man+united+founded&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9BSzU620s8vSk_My6xKLMnMz0PhWKXll-alpKYsYhXKTcxTKM3LLElNUYAKAgCrP6iwSAAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ6BMoAHoECGcQAg"
+      },
+      {
+        "text": "Newton Heath, Manchester, United Kingdom",
+        "link": "https://www.google.com/search?q=Newton+Heath&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy1DiBLGM8iotTbRUs5Ot9POL0hPzMqsSSzLz81A4Vmn5pXkpqSmLWHn8UstL8vMUPFITSzJ2sDLuYmfiYAAANRa4ZVUAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQmxMoAXoECGcQAw"
+      }
+    ],
+    "parent_organization": "Manchester United Plc",
+    "parent_organization_links": [
+      {
+        "text": "Parent organization",
+        "link": "https://www.google.com/search?q=man+united+parent+organization&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy9AyyCi30k_Oz8lJTS7JzM_Tzy9KT8zLrEoEcYqtChKLUvNKFJAFF7HK5SbmKZTmZZakpihgUQAAcXdegF8AAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ6BMoAHoECGYQAg"
+      },
+      {
+        "text": "Manchester United Plc",
+        "link": "https://www.google.com/search?q=Manchester+United+Plc&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDVIy1Di1U_XNzTMTc-wTDctLtcyyCi30k_Oz8lJTS7JzM_Tzy9KT8zLrEoEcYqtChKLUvNKFJAFF7GK-ibmJWekFpekFimE5mWWpKYoBOQk72Bl3MXOxMEAAGGOxXVtAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQmxMoAXoECGYQAw"
+      }
+    ],
+    "players": [
+      {
+        "name": "Paul Pogba",
+        "extensions": "Midfielder",
+        "link": "https://www.google.com/search?q=Paul+Pogba&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1DiArHSLauKLPO0hIIL8otKikNSE3ND8oPyi0tSixaxcgUkluYoBOSnJyUCAIGcK2k5AAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQri56BAhoEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Paul+Pogba&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1DiArHSLauKLPO0hIIL8otKikNSE3ND8oPyi0tSixaxcgUkluYoBOSnJyUCAIGcK2k5AAAA"
+      },
+      {
+        "name": "Mason Greenwood",
+        "extensions": "Forward",
+        "link": "https://www.google.com/search?q=Mason+Greenwood&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1Di1U_XNzRMyzZOSTHLNtcSCi7ILyopDklNzA3JD8ovLkktWsTK75tYnJ-n4F6UmppXnp-fAgAP4bP3QQAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQri56BAhoEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Mason+Greenwood&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1Di1U_XNzRMyzZOSTHLNtcSCi7ILyopDklNzA3JD8ovLkktWsTK75tYnJ-n4F6UmppXnp-fAgAP4bP3QQAAAA"
+      },
+      {
+        "name": "Harry Maguire",
+        "extensions": "Defender",
+        "link": "https://www.google.com/search?q=Harry+Maguire&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1DiArHScwoNU4q0hIIL8otKikNSE3ND8oPyi0tSixax8nokFhVVKvgmppdmFqUCAIeL5p88AAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQri56BAhoEAg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Harry+Maguire&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1DiArHScwoNU4q0hIIL8otKikNSE3ND8oPyi0tSixax8nokFhVVKvgmppdmFqUCAIeL5p88AAAA"
+      }
+    ],
+    "players_link": "https://www.google.com/search?q=man+united+players&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1CCs7Rks5Ot9IsL8otKiqFUfElqYq5VUX5xSWrRIlah3MQ8hdK8zJLUFIWCnMTK1KLiHayMANyrZ1BNAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQMSgAegQIaBAB",
+    "players_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDVIy1CCs7Rks5Ot9IsL8otKiqFUfElqYq5VUX5xSWrRIlah3MQ8hdK8zJLUFIWCnMTK1KLiHayMANyrZ1BNAAAA",
+    "profiles": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/ManUtd",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c9b68d8f63c15a15cab8fd80e3d32f5f18a8e43049800fab52.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/manchesterunited",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c9b68d8f63c15a15caf990548955bd7e8084445bad2fdaca54.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/manchesterunited",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c9b68d8f63c15a15ca117a725eb158d98d9871bc70927a26a8.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/manchester-united",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c9b68d8f63c15a15ca36aba5d4ddeaa95da2514397d6474767.png"
+      },
+      {
+        "name": "Pinterest",
+        "link": "https://www.pinterest.com/manutd/",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c9b68d8f63c15a15ca0422168101d831e975234d9094e08de3.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Manchester City F.C.",
+        "link": "https://www.google.com/search?q=Man+City&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgH4dhvXqBwndMDEEq9rZK_HzdyXt34jfvq1pubx42Gt9nUaW60CxYkW-FPyu8Q0nRFlS3quAWGEgdZ7m0Yj6FTKlkMZEo4V_LOH3h8MHbLoMrTJLCFb5gToqzpsU_hMjR_2r66or_fRMGMJ-8aDGf9sSaDG00NY9_EWlEeiLvGcCW1c1rmTtSl52liI_QFKZ5KDaOBLxULmCHjueZq8Fk498aUSl-neRdFXwZOjkQbRi2dzMgwLZXg_v7kiUZGB7U0Yyw1c%3D&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQxA16BAhpEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Man+City&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgH4dhvXqBwndMDEEq9rZK_HzdyXt34jfvq1pubx42Gt9nUaW60CxYkW-FPyu8Q0nRFlS3quAWGEgdZ7m0Yj6FTKlkMZEo4V_LOH3h8MHbLoMrTJLCFb5gToqzpsU_hMjR_2r66or_fRMGMJ-8aDGf9sSaDG00NY9_EWlEeiLvGcCW1c1rmTtSl52liI_QFKZ5KDaOBLxULmCHjueZq8Fk498aUSl-neRdFXwZOjkQbRi2dzMgwLZXg_v7kiUZGB7U0Yyw1c%3D",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c912686c0365974dbe2a9da352875a101aa344d65c74ba041e1867b669fc28d6b4.png"
+      },
+      {
+        "name": "Chelsea F.C.",
+        "link": "https://www.google.com/search?q=Chelsea+F.C.&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbdR9Sf64Bc86jevbdkpLC3aQJpaRb8-heIn1Xc-Gum5HBA6iFK4sB3ygYc_cUfy8FejdkdU7dV9KmfuYv5Xj8RKUeXgPmfRFBCFFunrNmSajGq2aSh6etjIJNyvLvS-6e32Y5IULMRXu18jA-ju-z1t6pVl807yf3uxHw6sAY243dcPpMVzLmGP4F-ECuZLpsJ9vnTJ-JLmSc7qBc_sxo8RIdJXPS3kv34aSfNZlNYsNW_ixDQcHFVpXF2woimpD33jlUk%3D&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQxA16BAhpEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Chelsea+F.C.&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbdR9Sf64Bc86jevbdkpLC3aQJpaRb8-heIn1Xc-Gum5HBA6iFK4sB3ygYc_cUfy8FejdkdU7dV9KmfuYv5Xj8RKUeXgPmfRFBCFFunrNmSajGq2aSh6etjIJNyvLvS-6e32Y5IULMRXu18jA-ju-z1t6pVl807yf3uxHw6sAY243dcPpMVzLmGP4F-ECuZLpsJ9vnTJ-JLmSc7qBc_sxo8RIdJXPS3kv34aSfNZlNYsNW_ixDQcHFVpXF2woimpD33jlUk%3D",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c912686c0365974dbe2a9da352875a101aeb2c6e9a1a42e55ae0694ba73d281ff2.png"
+      },
+      {
+        "name": "Premier League",
+        "link": "https://www.google.com/search?q=Premier+League&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfQrW-F0WwWNkvtYybYz9mfdHrWAUtds8dVPM--5lG6EqLsy1zNhJsiTaP38Zpg9pNmq6sUXJ8dkWV15w7Qz05FYHmEQh6pzNdCmmGAEsS97dXi2LwDlnpdN7VpH0O7o67GT6gzfGX7WAvZ8mC8jhmEIFUmzQn8ogZs913HyaFWNc2xK7bu9GmuJ-MaSW62vGLtDYxY4Dzv3BRmAf-6gJYn0ThwyahFZvbd0uBdKSBH_GV9uHFuYyz3cRft9CnxoqbpPc3Y%3D&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQxA16BAhpEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Premier+League&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfQrW-F0WwWNkvtYybYz9mfdHrWAUtds8dVPM--5lG6EqLsy1zNhJsiTaP38Zpg9pNmq6sUXJ8dkWV15w7Qz05FYHmEQh6pzNdCmmGAEsS97dXi2LwDlnpdN7VpH0O7o67GT6gzfGX7WAvZ8mC8jhmEIFUmzQn8ogZs913HyaFWNc2xK7bu9GmuJ-MaSW62vGLtDYxY4Dzv3BRmAf-6gJYn0ThwyahFZvbd0uBdKSBH_GV9uHFuYyz3cRft9CnxoqbpPc3Y%3D",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c912686c0365974dbe2a9da352875a101ac3df773364084e84b4697835bc8fbd64.png"
+      },
+      {
+        "name": "Paris Saint‑Germain F.C.",
+        "link": "https://www.google.com/search?q=PSG&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgEcNRa9QXT54AZpQ7W4aGX-tsgFKqwXtm-c2kKMF9OH1QOGg710rQeqywKOvV416KSUC5Ts9FWQY7TwRZHKzRtDH13WGrM1Rc6D-fiwZAHwfnAs-_S92h2CfBQVeBT0z9F2QWsHsNwJPmgEa9wrdKnBEEQXl2KsV9VFpMC9-MO5TVhun_G7pSRC1zaX2wiLpgHc16xMhl44PDxCPI-bZYn7OFQtDp_kTVudfJx_E9qtJcDY1nQ%3D%3D&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQxA16BAhpEAs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=PSG&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgEcNRa9QXT54AZpQ7W4aGX-tsgFKqwXtm-c2kKMF9OH1QOGg710rQeqywKOvV416KSUC5Ts9FWQY7TwRZHKzRtDH13WGrM1Rc6D-fiwZAHwfnAs-_S92h2CfBQVeBT0z9F2QWsHsNwJPmgEa9wrdKnBEEQXl2KsV9VFpMC9-MO5TVhun_G7pSRC1zaX2wiLpgHc16xMhl44PDxCPI-bZYn7OFQtDp_kTVudfJx_E9qtJcDY1nQ%3D%3D",
+        "image": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/ec2f258cceaf4fadf6f7ebd7e27b92c912686c0365974dbe2a9da352875a101a5e9597b3ae1fb108880c8df56695326f.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Man+United&stick=H4sIAAAAAAAAAONgFuLQz9U3MDVIy1CCs7QEgzNTUssTK4v9UitKgktSC4oXsXL5JuYphOZllqSm7GBlBABAfK5sOQAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQMSgAegQIaRAB",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDVIy1CCs7QEgzNTUssTK4v9UitKgktSC4oXsXL5JuYphOZllqSm7GBlBABAfK5sOQAAAA"
+  },
+  "twitter_results": {
+    "link": "https://twitter.com/ManUtd/status/1538462845762818049?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/5852f987454838ca033108bb878df2fcff3ee701cde83cd1af4318e078743755.jpeg",
+    "tweets": [
+      {
+        "link": "https://twitter.com/ManUtd/status/1538462845762818049?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Happy #FathersDay ❤️ #MUFC",
+        "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/5852f987454838ca033108bb878df2fc28a2f2967df292bb5a15eb4c29e0f2a70b4c2c09746b2035.jpeg",
+        "published_date": "2 days ago"
+      },
+      {
+        "link": "https://twitter.com/ManUtd/status/1538563013468356614?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "The graft never stops for @Cristiano 💪 #MUFC",
+        "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/5852f987454838ca033108bb878df2fc700634a0099045275a1cf291d473fed9f1a429781ac39f69.jpeg",
+        "published_date": "1 day ago"
+      },
+      {
+        "link": "https://twitter.com/ManUtd/status/1538492541863022594?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "⏳ In seven weeks' time... #MUFC",
+        "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/5852f987454838ca033108bb878df2fc6d753ef763c82c7fb28b410ced9f9c7b41b116e821edb029.jpeg",
+        "published_date": "1 day ago"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "eFootball Championship Pro 2022 | Manchester United v AS ...",
+      "link": "https://www.youtube.com/watch?v=TLousn4JRmE",
+      "thumbnail": "https://i.ytimg.com/vi/TLousn4JRmE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m8DydegFE9HX1QJx8QRnhp6N0vBg",
+      "channel": "Manchester United",
+      "duration": "13:00",
+      "platform": "YouTube",
+      "date": "9 hours ago"
+    },
+    {
+      "position": 2,
+      "title": "Should Manchester United fans be concerned by a lack of ...",
+      "link": "https://www.youtube.com/watch?v=Mk1OkAdbFhg",
+      "thumbnail": "https://i.ytimg.com/vi/Mk1OkAdbFhg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nSR1-uKWCxGHS6BOfsXQ7QvlKdag",
+      "channel": "Sky Sports News",
+      "duration": "6:00",
+      "platform": "YouTube",
+      "date": "7 hours ago"
+    },
+    {
+      "position": 3,
+      "title": "Manchester United on Twitter: \"Ji-sung Park with the tidy finish ...",
+      "link": "https://twitter.com/ManUtd/status/1538689086336208902",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_97vugDhlYe_LQ47aUfYIKHbhmLpopk-sHCk-2WvAD_Y&s",
+      "duration": "0:15",
+      "platform": "",
+      "date": "22 hours ago"
+    }
+  ],
+  "inline_video_carousels": [
+    {
+      "position": 1,
+      "title": "Manchester United Youtube Channel",
+      "link": "https://www.youtube.com/channel/UC6yW44UGJJBvYTlfC7CRg2Q",
+      "displayed_link": "https://www.youtube.com › channel",
+      "videos": [
+        {
+          "position": 1,
+          "title": "Nothing But Net From Sancho",
+          "link": "https://www.youtube.com/watch?v=bb8I5vOM3zs",
+          "thumbnail": "https://i.ytimg.com/vi/bb8I5vOM3zs/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lIlJ6SInKN4FxkLwtXsoqIBHbFSg",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "0:16",
+          "date": "7 hours ago"
+        },
+        {
+          "position": 2,
+          "title": "eFootball Championship Pro 2022 | Manchester United v AS ...",
+          "link": "https://www.youtube.com/watch?v=TLousn4JRmE",
+          "thumbnail": "https://i.ytimg.com/vi/TLousn4JRmE/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lJ1zB63V7aOudpqreAYyEX06mQqw",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "13:00",
+          "date": "9 hours ago"
+        },
+        {
+          "position": 3,
+          "title": "eFootball Championship Pro | Manchester United v Monaco & Celtic ...",
+          "link": "https://www.youtube.com/watch?v=kuukJQhYhiU",
+          "thumbnail": "https://i.ytimg.com/vi/kuukJQhYhiU/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lFFE8pY1iXrerVuIl-SEE5pHxVCg",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "4:47:10",
+          "date": "1 day ago"
+        },
+        {
+          "position": 4,
+          "title": "Team UK v Team ROW ft. The Sidemen, Yung Filly, Harry Pinero ⚽️",
+          "link": "https://www.youtube.com/watch?v=vSjJGWf_TRU",
+          "thumbnail": "https://i.ytimg.com/vi/vSjJGWf_TRU/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3ka1ioibAa2XOHQwfl5y2l_zhgEEg",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "11:46",
+          "date": "3 days ago"
+        },
+        {
+          "position": 5,
+          "title": "eFootballPro Matchday 1 Highlights",
+          "link": "https://www.youtube.com/watch?v=RfJwh_q53I0",
+          "thumbnail": "https://i.ytimg.com/vi/RfJwh_q53I0/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3n1dsBi4Klk4mL4S0wm-uNXVeYS_g",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "1:01",
+          "date": "4 days ago"
+        },
+        {
+          "position": 6,
+          "title": "eFootball Championship Pro 2022 | Manchester United v FC Bayern ...",
+          "link": "https://www.youtube.com/watch?v=xaX32TdSgWM",
+          "thumbnail": "https://i.ytimg.com/vi/xaX32TdSgWM/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3nRUd7PqU1YiH2SSkBUs3grlYvhKQ",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "13:15",
+          "date": "6 days ago"
+        },
+        {
+          "position": 7,
+          "title": "eFootball Championship Pro | Manchester United v Bayern Munich ...",
+          "link": "https://www.youtube.com/watch?v=6IoQ2Adgvu8",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6AxyzutcW_fLIxDJLn-bWD5TY-xSWGPm0AnImhGY2UL5&s",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "4:22:16",
+          "date": "1 week ago"
+        },
+        {
+          "position": 8,
+          "title": "Manchester United eSports | Group-Stage Draw | eFootball ...",
+          "link": "https://www.youtube.com/watch?v=JglHcpbwmg8",
+          "thumbnail": "https://i.ytimg.com/vi/JglHcpbwmg8/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lZdkGe8Mf8Hh2Yjhz2wzAxuzw4DA",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "34:32",
+          "date": "1 week ago"
+        },
+        {
+          "position": 9,
+          "title": "Manchester United eSports | Tournament Format | eFootball ...",
+          "link": "https://www.youtube.com/watch?v=FxeHyP2fYYI",
+          "thumbnail": "https://i.ytimg.com/vi/FxeHyP2fYYI/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3mJwMaOZKl8Eh01SN-3-sZWIE3Eug",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "6:35",
+          "date": "1 week ago"
+        },
+        {
+          "position": 10,
+          "title": "Manchester United eSports | The Story So Far | eFootball ...",
+          "link": "https://www.youtube.com/watch?v=5yu2uV7kFus",
+          "thumbnail": "https://i.ytimg.com/vi/5yu2uV7kFus/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3msT5aPMOyvn2mx6GTEOXtY2PuQRA",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "8:12",
+          "date": "1 week ago"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Manchester United Youtube Channel",
+      "link": "https://www.youtube.com/channel/UC6yW44UGJJBvYTlfC7CRg2Q",
+      "displayed_link": "https://www.youtube.com › channel",
+      "videos": [
+        {
+          "position": 1,
+          "title": "Nothing But Net From Sancho",
+          "link": "https://www.youtube.com/watch?v=bb8I5vOM3zs",
+          "thumbnail": "https://i.ytimg.com/vi/bb8I5vOM3zs/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lIlJ6SInKN4FxkLwtXsoqIBHbFSg",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "0:16",
+          "date": "7 hours ago"
+        },
+        {
+          "position": 2,
+          "title": "eFootball Championship Pro 2022 | Manchester United v AS ...",
+          "link": "https://www.youtube.com/watch?v=TLousn4JRmE",
+          "thumbnail": "https://i.ytimg.com/vi/TLousn4JRmE/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lJ1zB63V7aOudpqreAYyEX06mQqw",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "13:00",
+          "date": "9 hours ago"
+        },
+        {
+          "position": 3,
+          "title": "eFootball Championship Pro | Manchester United v Monaco & Celtic ...",
+          "link": "https://www.youtube.com/watch?v=kuukJQhYhiU",
+          "thumbnail": "https://i.ytimg.com/vi/kuukJQhYhiU/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lFFE8pY1iXrerVuIl-SEE5pHxVCg",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "4:47:10",
+          "date": "1 day ago"
+        },
+        {
+          "position": 4,
+          "title": "Team UK v Team ROW ft. The Sidemen, Yung Filly, Harry Pinero ⚽️",
+          "link": "https://www.youtube.com/watch?v=vSjJGWf_TRU",
+          "thumbnail": "https://i.ytimg.com/vi/vSjJGWf_TRU/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3ka1ioibAa2XOHQwfl5y2l_zhgEEg",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "11:46",
+          "date": "3 days ago"
+        },
+        {
+          "position": 5,
+          "title": "eFootballPro Matchday 1 Highlights",
+          "link": "https://www.youtube.com/watch?v=RfJwh_q53I0",
+          "thumbnail": "https://i.ytimg.com/vi/RfJwh_q53I0/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3n1dsBi4Klk4mL4S0wm-uNXVeYS_g",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "1:01",
+          "date": "4 days ago"
+        },
+        {
+          "position": 6,
+          "title": "eFootball Championship Pro 2022 | Manchester United v FC Bayern ...",
+          "link": "https://www.youtube.com/watch?v=xaX32TdSgWM",
+          "thumbnail": "https://i.ytimg.com/vi/xaX32TdSgWM/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3nRUd7PqU1YiH2SSkBUs3grlYvhKQ",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "13:15",
+          "date": "6 days ago"
+        },
+        {
+          "position": 7,
+          "title": "eFootball Championship Pro | Manchester United v Bayern Munich ...",
+          "link": "https://www.youtube.com/watch?v=6IoQ2Adgvu8",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6AxyzutcW_fLIxDJLn-bWD5TY-xSWGPm0AnImhGY2UL5&s",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "4:22:16",
+          "date": "1 week ago"
+        },
+        {
+          "position": 8,
+          "title": "Manchester United eSports | Group-Stage Draw | eFootball ...",
+          "link": "https://www.youtube.com/watch?v=JglHcpbwmg8",
+          "thumbnail": "https://i.ytimg.com/vi/JglHcpbwmg8/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3lZdkGe8Mf8Hh2Yjhz2wzAxuzw4DA",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "34:32",
+          "date": "1 week ago"
+        },
+        {
+          "position": 9,
+          "title": "Manchester United eSports | Tournament Format | eFootball ...",
+          "link": "https://www.youtube.com/watch?v=FxeHyP2fYYI",
+          "thumbnail": "https://i.ytimg.com/vi/FxeHyP2fYYI/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3mJwMaOZKl8Eh01SN-3-sZWIE3Eug",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "6:35",
+          "date": "1 week ago"
+        },
+        {
+          "position": 10,
+          "title": "Manchester United eSports | The Story So Far | eFootball ...",
+          "link": "https://www.youtube.com/watch?v=5yu2uV7kFus",
+          "thumbnail": "https://i.ytimg.com/vi/5yu2uV7kFus/mqdefault.jpg?sqp=-oaymwEFCNIBEHI&rs=AMzJL3msT5aPMOyvn2mx6GTEOXtY2PuQRA",
+          "platform": "YouTube",
+          "channel": "Manchester United",
+          "duration": "8:12",
+          "date": "1 week ago"
+        }
+      ]
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "title": "Premier League teams",
+      "items": [
+        {
+          "name": "Manchester City F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6aXfPiwZiCmG2kcNAHqzca68QE-0zXzoiHRy&s=0",
+          "link": "https://www.google.com/search?q=Man+City&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzNqkwEikoSs3NTC1SyElNTC9NVShJTcwtjhLMTcxLzkgtLgFKlOZllqSmnGJEaDrFyAFim-SUpEGZRsZpSacY2UHMiqRcqGBGWVYRlJmcnWYGZebmpsCYSTkWOVBmWllO5SlGLrAVFXnmFYa_GEUCoC7zQXLZIlYO38Q8BefMkspbbJIMph9bmYStt_1cWPe9xN14yYdD8ssubWO-uhYAOu8oSeQAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAB6BAgaEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Man+City&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzNqkwEikoSs3NTC1SyElNTC9NVShJTcwtjhLMTcxLzkgtLgFKlOZllqSmnGJEaDrFyAFim-SUpEGZRsZpSacY2UHMiqRcqGBGWVYRlJmcnWYGZebmpsCYSTkWOVBmWllO5SlGLrAVFXnmFYa_GEUCoC7zQXLZIlYO38Q8BefMkspbbJIMph9bmYStt_1cWPe9xN14yYdD8ssubWO-uhYAOu8oSeQAAAA"
+        },
+        {
+          "name": "Liverpool F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgMSNWKxgxkUynk8YOdACuxB5ke5oSMZK5WN-&s=0",
+          "link": "https://www.google.com/search?q=Liverpool+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMkpSTMSKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1w9lGhmnJZ1iZAcxK5JyoYIZZVlFUGZydpoZlJmbmwJjJuVY5ECZaWU5lacYucBWVOSZVxj-YhQJgLrMB8lli1j5fDLLUosK8vNzFNz0nPVusUkymH5sZRK23vZzYd33EnfjJR8OyS-7tI356loANG82-OkAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAF6BAgaEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Liverpool+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMkpSTMSKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1w9lGhmnJZ1iZAcxK5JyoYIZZVlFUGZydpoZlJmbmwJjJuVY5ECZaWU5lacYucBWVOSZVxj-YhQJgLrMB8lli1j5fDLLUosK8vNzFNz0nPVusUkymH5sZRK23vZzYd33EnfjJR8OyS-7tI356loANG82-OkAAAA"
+        },
+        {
+          "name": "Chelsea F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhc5DJyg9bj4SG_z4sj_WXtOpatiHWncA3b5oP&s=0",
+          "link": "https://www.google.com/search?q=Chelsea+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDJOSzISKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1m-SU5IGZYKMOsXIDmJWJOVCBTPKsoqgzOTsNDMoMzc3BcZMyrHIgTLTynIqTzFyga2oyDOvMPzFKBIAdZkPkssWsfI4Z6TmFKcmKrjpOevdYpNkMP3YyiRsve3nwrrvJe7GSz4ckl92aRvz1bUAHl89ducAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAJ6BAgaEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Chelsea+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDJOSzISKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1m-SU5IGZYKMOsXIDmJWJOVCBTPKsoqgzOTsNDMoMzc3BcZMyrHIgTLTynIqTzFyga2oyDOvMPzFKBIAdZkPkssWsfI4Z6TmFKcmKrjpOevdYpNkMP3YyiRsve3nwrrvJe7GSz4ckl92aRvz1bUAHl89ducAAAA"
+        },
+        {
+          "name": "Arsenal F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25bhYlxCrzc0gzfaf9sj0coMhgC74zKmWfg71&s=0",
+          "link": "https://www.google.com/search?q=Arsenal&stick=H4sIAAAAAAAAAOOQUWLXz9U3qEjKNRIpKErNzUwtUshJTUwvTVUoSU3MLY4SzE3MS85ILS4BSpTmZZakppxi5ARpMTQzNqk4xcgBYpvklKRBmUbGaUmnGGGGQgUzyrKKoMzk7DQzKDM3NwXGTMqxyIEy08pyKk8xcoGtqMgzrzD8xSgSAHWZD5LLFrGyOxYVp-Yl5txik2Qw_djKJGy97efCuu8l7sZLPhySX3ZpG_PVtQDFS3MX4QAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAN6BAgaEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Arsenal&stick=H4sIAAAAAAAAAOOQUWLXz9U3qEjKNRIpKErNzUwtUshJTUwvTVUoSU3MLY4SzE3MS85ILS4BSpTmZZakppxi5ARpMTQzNqk4xcgBYpvklKRBmUbGaUmnGGGGQgUzyrKKoMzk7DQzKDM3NwXGTMqxyIEy08pyKk8xcoGtqMgzrzD8xSgSAHWZD5LLFrGyOxYVp-Yl5txik2Qw_djKJGy97efCuu8l7sZLPhySX3ZpG_PVtQDFS3MX4QAAAA"
+        },
+        {
+          "name": "Tottenham Hotspur F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaO0CCV1kz8iyoxQD02M-bV6132adh1S9j4NP&s=0",
+          "link": "https://www.google.com/search?q=Tottenham&stick=H4sIAAAAAAAAAOOQUeLQz9U3yCjLKjISKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1m-SU5IGZRoZpyWdYmQHMSuScqGCIPOhzOTsNDMoMzc3BcZMyrHIgTLTynIqTzFyga2oyDOvMPzFKBIAdZkPkssWsXKG5JeUpOZlJObeYpNkMP3YyiRsve3nwrrvJe7GSz4ckl92aRvz1bUAxokzLuQAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAR6BAgaEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Tottenham&stick=H4sIAAAAAAAAAOOQUeLQz9U3yCjLKjISKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1m-SU5IGZRoZpyWdYmQHMSuScqGCIPOhzOTsNDMoMzc3BcZMyrHIgTLTynIqTzFyga2oyDOvMPzFKBIAdZkPkssWsXKG5JeUpOZlJObeYpNkMP3YyiRsve3nwrrvJe7GSz4ckl92aRvz1bUAxokzLuQAAAA"
+        },
+        {
+          "name": "West Ham United F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3anyNFZNseg4qRRc61gSa6Nr59OOqA8Mmy8_&s=0",
+          "link": "https://www.google.com/search?q=West+Ham&stick=H4sIAAAAAAAAAOOQUeLQz9U3SM5OMzMSKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1m-SU5IGZRoZpyWdYmQHMSuScqGCGWVZRVAmyCooMzc3BcZMyrHIgTLTynIqTzFyga2oyDOvMPzFKBIAdZkPkssWsXKEA52l4JGYe4tNksH0YyuTsPW2nwvrvpe4Gy_5cEh-2aVtzFfXAgDollRU4wAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAV6BAgaEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=West+Ham&stick=H4sIAAAAAAAAAOOQUeLQz9U3SM5OMzMSKShKzc1MLVLISU1ML01VKElNzC2OEsxNzEvOSC0uAUqU5mWWpKacYuQE6TE0MzapOMUI1m-SU5IGZRoZpyWdYmQHMSuScqGCGWVZRVAmyCooMzc3BcZMyrHIgTLTynIqTzFyga2oyDOvMPzFKBIAdZkPkssWsXKEA52l4JGYe4tNksH0YyuTsPW2nwvrvpe4Gy_5cEh-2aVtzFfXAgDollRU4wAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?q=Premier+League+teams&stick=H4sIAAAAAAAAAOOQMRIpKErNzUwtUshJTUwvTVUoSU3MLY4SzE3MS85ILS4BSpTmZZakppxi5NTP1TcwNDM2qTjFyAFim-SUpEGZRsZpSacY2UHMiqRcqGBGWVYRlJmcnWYGZebmpsCYSTkWOVBmWllO5SlGLrAVFXnmFYa_GEUCoC7zQXLZIlaswrfYJBlMP7YyCVtv-7mw7nuJu_GSD4fkl13axnx1LQDILwtv5QAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ4qYDegQIGhAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Premier+League+teams&stick=H4sIAAAAAAAAAOOQMRIpKErNzUwtUshJTUwvTVUoSU3MLY4SzE3MS85ILS4BSpTmZZakppxi5NTP1TcwNDM2qTjFyAFim-SUpEGZRsZpSacY2UHMiqRcqGBGWVYRlJmcnWYGZebmpsCYSTkWOVBmWllO5SlGLrAVFXnmFYa_GEUCoC7zQXLZIlaswrfYJBlMP7YyCVtv-7mw7nuJu_GSD4fkl13axnx1LQDILwtv5QAAAA"
+    },
+    {
+      "title": "Jose Mourinho teams coached",
+      "items": [
+        {
+          "name": "Real Madrid CF",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL2k4btT00GyysGQG_GdD8cpBRc3ZG-3z_-GpW&s=0",
+          "link": "https://www.google.com/search?q=Real+Madrid&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMsxMjKSzsovTlXIzS8tyszLyFcoSU3MLVZIzk9MzkhNiRLMTcwDMopLUosUSvMyS1JTTjGCtRoZpyVhMkEGQpkZZeklcGZW0SlGThDT0Nw8PQcqbFxhlnuKkR3ErCxJhiowKsqIN4CyTQzzjCx-MUp7gRzoi9WBi1i5g1ITcxR8E1OKMlNusUkymH5sZbJXX_xiQnyt3N4Lby4__2vtFLX4wEkAGSNn6_QAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAB6BAggEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Real+Madrid&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMsxMjKSzsovTlXIzS8tyszLyFcoSU3MLVZIzk9MzkhNiRLMTcwDMopLUosUSvMyS1JTTjGCtRoZpyVhMkEGQpkZZeklcGZW0SlGThDT0Nw8PQcqbFxhlnuKkR3ErCxJhiowKsqIN4CyTQzzjCx-MUp7gRzoi9WBi1i5g1ITcxR8E1OKMlNusUkymH5sZbJXX_xiQnyt3N4Lby4__2vtFLX4wEkAGSNn6_QAAAA"
+        },
+        {
+          "name": "FC Barcelona",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTdKah-oY8cc737hxIYTqEftY6NMMOAVuFbwX&s=0",
+          "link": "https://www.google.com/search?q=FC+Barcelona&stick=H4sIAAAAAAAAAOOQUeLQz9U3yChLLzGSzsovTlXIzS8tyszLyFcoSU3MLVZIzk9MzkhNiRLMTcwDMopLUosUSvMyS1JTTjGCtRoZpyVhMs1yjIygTJDZcGZW0SlGThDT0Nw8PQcqbFxhlnuKkR3ErCxJhiowKsqIN4CyTQzzjCx-MUp7gRzoi9WBi1h53JwVnBKLklNz8vMSb7FJMph-bGWyV1_8YkJ8rdzeC28uP_9r7RS1-MBJAExPgX71AAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAF6BAggEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=FC+Barcelona&stick=H4sIAAAAAAAAAOOQUeLQz9U3yChLLzGSzsovTlXIzS8tyszLyFcoSU3MLVZIzk9MzkhNiRLMTcwDMopLUosUSvMyS1JTTjGCtRoZpyVhMs1yjIygTJDZcGZW0SlGThDT0Nw8PQcqbFxhlnuKkR3ErCxJhiowKsqIN4CyTQzzjCx-MUp7gRzoi9WBi1h53JwVnBKLklNz8vMSb7FJMph-bGWyV1_8YkJ8rdzeC28uP_9r7RS1-MBJAExPgX71AAAA"
+        },
+        {
+          "name": "FC Porto",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRor7qLGWXF3fgX2t7pvB_kFo4HLZK5TaKFLr5&s=0",
+          "link": "https://www.google.com/search?q=FC+Porto&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQ3T88xks7KL05VyM0vLcrMy8hXKElNzC1WSM5PTM5ITYkSzE3MAzKKS1KLFErzMktSU04xcoD0GhmnJWEyzXKMjKDMjLL0Ejgzq-gUI8JKqLBxhVnuKUZ2ELOyJBmqwKgoI94AyjYxzDOy-MUo7QVyoC9WBy5i5XBzVgjILyrJv8UmyWD6sZXJXn3xiwnxtXJ7L7y5_PyvtVPU4gMnAVKAVFvyAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAJ6BAggEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=FC+Porto&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQ3T88xks7KL05VyM0vLcrMy8hXKElNzC1WSM5PTM5ITYkSzE3MAzKKS1KLFErzMktSU04xcoD0GhmnJWEyzXKMjKDMjLL0Ejgzq-gUI8JKqLBxhVnuKUZ2ELOyJBmqwKgoI94AyjYxzDOy-MUo7QVyoC9WBy5i5XBzVgjILyrJv8UmyWD6sZXJXn3xiwnxtXJ7L7y5_PyvtVPU4gMnAVKAVFvyAAAA"
+        },
+        {
+          "name": "Inter Milan",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSYp7NQrDUmv7X_3rGXKT_RvgXvsP8CFpSs7p&s=0",
+          "link": "https://www.google.com/search?q=Inter+Milan&stick=H4sIAAAAAAAAAOOQUeLQz9U3MK4wyzWSzsovTlXIzS8tyszLyFcoSU3MLVZIzk9MzkhNiRLMTcwDMopLUosUSvMyS1JTTjGCtRoZpyVhMs1yjIygzIyy9BI4M6voFCMniGlobp6eAxUG2X6KkR3ErCxJhiowKsqIN4CyTQzzjCx-MUp7gRzoi9WBi1i5PfNAjvPNzEnMu8UmyWD6sZXJXn3xiwnxtXJ7L7y5_PyvtVPU4gMnASINyzH0AAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAN6BAggEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Inter+Milan&stick=H4sIAAAAAAAAAOOQUeLQz9U3MK4wyzWSzsovTlXIzS8tyszLyFcoSU3MLVZIzk9MzkhNiRLMTcwDMopLUosUSvMyS1JTTjGCtRoZpyVhMs1yjIygzIyy9BI4M6voFCMniGlobp6eAxUG2X6KkR3ErCxJhiowKsqIN4CyTQzzjCx-MUp7gRzoi9WBi1i5PfNAjvPNzEnMu8UmyWD6sZXJXn3xiwnxtXJ7L7y5_PyvtVPU4gMnASINyzH0AAAA"
+        },
+        {
+          "name": "A.S. Roma",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToGtZTFapeQq6oOC1S4dFCHfveGDDjzFWEE9Rx&s=0",
+          "link": "https://www.google.com/search?q=A.S.+Roma&stick=H4sIAAAAAAAAAOOQUWLXz9U3qCxJNpLOyi9OVcjNLy3KzMvIVyhJTcwtVkjOT0zOSE2JEsxNzAMyiktSixRK8zJLUlNOMXKAdBoZpyVhMs1yjIygzIyy9BI4M6voFCMniGlobp6eAxU2rjDLPcUIcwdUgVFRRrwBlG1imGdk8YtR2gvkQF-sDlzEyumoF6ynEJSfm3iLTZLB9GMrk7364hcT4mvl9l54c_n5X2unqMUHTgIA3FJ-lvEAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAR6BAggEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=A.S.+Roma&stick=H4sIAAAAAAAAAOOQUWLXz9U3qCxJNpLOyi9OVcjNLy3KzMvIVyhJTcwtVkjOT0zOSE2JEsxNzAMyiktSixRK8zJLUlNOMXKAdBoZpyVhMs1yjIygzIyy9BI4M6voFCMniGlobp6eAxU2rjDLPcUIcwdUgVFRRrwBlG1imGdk8YtR2gvkQF-sDlzEyumoF6ynEJSfm3iLTZLB9GMrk7364hcT4mvl9l54c_n5X2unqMUHTgIA3FJ-lvEAAAA"
+        },
+        {
+          "name": "S.L. Benfica",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAumlFg-2ikS5rnocFSF_J8J-yk0OkAyXU7Sum&s=0",
+          "link": "https://www.google.com/search?q=Benfica&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCrKiDcwks7KL05VyM0vLcrMy8hXKElNzC1WSM5PTM5ITYkSzE3MAzKKS1KLFErzMktSU04xcoD1GqclYTLNcoyMoMyMsvQSODOr6BQj2EpDc_P0HKiwcYVZ7ilGdhCzsiQZqgDsJijbxDDPyOIXo7QXyIG-WB24iJXdKTUvLTM58RabJIPpx1Yme_XFLybE18rtvfDm8vO_1k5Riw-cBAD4dtKl8QAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQs9oBKAV6BAggEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Benfica&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCrKiDcwks7KL05VyM0vLcrMy8hXKElNzC1WSM5PTM5ITYkSzE3MAzKKS1KLFErzMktSU04xcoD1GqclYTLNcoyMoMyMsvQSODOr6BQj2EpDc_P0HKiwcYVZ7ilGdhCzsiQZqgDsJijbxDDPyOIXo7QXyIG-WB24iJXdKTUvLTM58RabJIPpx1Yme_XFLybE18rtvfDm8vO_1k5Riw-cBAD4dtKl8QAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?q=Jose+Mourinho+teams+coached&stick=H4sIAAAAAAAAAOOQMZLOyi9OVcjNLy3KzMvIVyhJTcwtVkjOT0zOSE2JEsxNzAMyiktSixRK8zJLUlNOMXLo5-obGBmnJWEyzXKMjKDMjLL0Ejgzq-gUIyeIaWhunp4DFTauMMs9xcgOYlaWJEMVGBVlxBtA2SaGeUYWvxilvUAO9MXqwEWs-GRvsUkymH5sZbJXX_xiQnyt3N4Lby4__2vtFLX4wEkAqWS0r_oAAAA&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ4qYDegQIIBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=Jose+Mourinho+teams+coached&stick=H4sIAAAAAAAAAOOQMZLOyi9OVcjNLy3KzMvIVyhJTcwtVkjOT0zOSE2JEsxNzAMyiktSixRK8zJLUlNOMXLo5-obGBmnJWEyzXKMjKDMjLL0Ejgzq-gUIyeIaWhunp4DFTauMMs9xcgOYlaWJEMVGBVlxBtA2SaGeUYWvxilvUAO9MXqwEWs-GRvsUkymH5sZbJXX_xiQnyt3N4Lby4__2vtFLX4wEkAqWS0r_oAAAA"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "Report: Manchester United officials set to fly to Netherlands to try and seal Antony deal",
+      "link": "https://www.unitedinfocus.com/news/report-manchester-united-officials-set-to-fly-to-netherlands-to-try-and-seal-antony-deal/",
+      "source": "United In Focus",
+      "date": "1 hour ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5fee86fea253a30f3d6382f3c7b03c1fa3.jpeg"
+    },
+    {
+      "title": "Evanilson linked with move to Manchester United",
+      "link": "https://www.unitedinfocus.com/news/evanilson-linked-with-move-to-manchester-united/",
+      "source": "United In Focus",
+      "date": "15 hours ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5fe863a84e722fb59c331e4c518854ee09.jpeg"
+    },
+    {
+      "title": "Manchester United warned over ‘insanely high’ Antony fee",
+      "link": "https://www.unitedinfocus.com/news/manchester-united-warned-over-insanely-high-antony-fee/",
+      "source": "United In Focus",
+      "date": "6 hours ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5f06ecca136584cfc47baef3700499c15e.jpeg"
+    },
+    {
+      "title": "Manchester United prepare new offer for Brazilian forward after first offer of £52m rejected",
+      "link": "https://www.caughtoffside.com/2022/06/20/evanilson-manchester-united-transfer-offer-prepared/",
+      "source": "CaughtOffside",
+      "date": "13 hours ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5f9dafff1c961d26473c83e2b8d5bf59e8.jpeg"
+    },
+    {
+      "title": "Manchester United have made €60 million offer for Brazilian striker",
+      "link": "https://reddevilarmada.com/2022/06/20/manchester-united-made-offer-striker-2/",
+      "source": "Red Devil Armada",
+      "date": "14 hours ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5f68a1c2ceec980f5701f9f68e06757c04.jpeg"
+    },
+    {
+      "title": "Sky Germany: Talks ongoing and ‘good’ between Manchester United and Hoffenheim for David Raum",
+      "link": "https://www.unitedinfocus.com/news/sky-germany-talks-ongoing-and-good-between-manchester-united-and-hoffenheim-for-david-raum/",
+      "source": "United In Focus",
+      "date": "5 hours ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5f3accbeff2f294c1237bc0d4de45aecba.jpeg"
+    },
+    {
+      "title": "Gary Neville calls for the Glazers to call immediate halt to cashing in on Manchester United dividends",
+      "link": "https://www.unitedinfocus.com/glazers-out/gary-neville-calls-for-the-glazers-to-call-immediate-halt-to-cashing-in-on-manchester-united-dividends/",
+      "source": "United In Focus",
+      "date": "4 hours ago",
+      "thumbnail": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/2a2e9e9b38da9c5f6c43529bdc988fcd30960404237e9d4f.jpeg"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=manchester+united&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQt8YBegQIAxAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&tbm=nws",
+  "related_questions": [
+    {
+      "question": "Who is the most famous player in Manchester United?",
+      "snippet": "David Beckham But he remains the most popular player to ever put on the United shirt.",
+      "title": "Manchester United: 25 Most Popular Players in United History",
+      "link": "https://bleacherreport.com/articles/884723-manchester-united-25-most-popular-players-in-united-history",
+      "displayed_link": "https://bleacherreport.com › articles › 884723-manchester..."
+    },
+    {
+      "question": "Has Man Utd signed any new players?",
+      "title": "Victor Lindelof signed for the Reds ahead of the 2017/18 season....Summer 2017 Signings.",
+      "link": "https://www.manutd.com/en/manchester-united-transfers-and-loans",
+      "displayed_link": "https://www.manutd.com › manchester-united-transfers-an..."
+    },
+    {
+      "question": "Is Man U the best football team?",
+      "snippet": "Manchester United is one of the most prestigious, respected and feared teams in world football. The club achieved such accolades by their performances on and off the pitch through the years.",
+      "title": "10 Reasons Why Manchester United Is Rated as the Best Team in the ...",
+      "link": "https://bleacherreport.com/articles/963109-10-reasons-why-manchester-united-is-rated-as-the-best-team-in-the-league",
+      "displayed_link": "https://bleacherreport.com › articles › 963109-10-reasons-..."
+    },
+    {
+      "question": "Why is Manchester United the devil?",
+      "snippet": "Local rugby club Salford — a city based in the Greater Manchester area — was officially referred to as the Reds, but was popularly known as the \"Red Devils\" (logo below), a nickname dating back to 1934 when the club dominated a tournament in France, prompting local journalists to dub them \"Les Diables Rouges\" (The Red ...Dec 29, 2021",
+      "title": "Why is Manchester United called the \"Red Devils\"? Explaining the ...",
+      "link": "https://www.sportingnews.com/us/soccer/news/why-manchester-united-called-red-devils-nickname/1vfau0qgayh5d1b98wcditbxw4",
+      "displayed_link": "https://www.sportingnews.com › soccer › news › why-ma..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Official Manchester United Website",
+      "link": "https://www.manutd.com/",
+      "displayed_link": "https://www.manutd.com",
+      "date": "10 hours ago",
+      "snippet": "The official Manchester United website with news, fixtures, videos, tickets, live match coverage, match highlights, player profiles, transfers, ...",
+      "snippet_highlighted_words": [
+        "Manchester United"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Manchester United Football Club, commonly referred to as Man United, is a professional football club based in the Old Trafford area of Manchester, England. The club competes in the Premier League, the top division in the English football league system.",
+          "icon": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/97b3bb4d322ec17f21a8970dd00fa9f0f65549296fe04fee89e9c1c39ac8b656577d6961e979243599f0f8dc92fa98ff.png"
+        },
+        "keywords": [
+          "manchester",
+          "united"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "the United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.manutd.com/&tbm=ilp&ilps=ADNMCi0iV27NmsSCMAT4jFbYOCudVzvrMg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IPl1A0gT0jwJ:https://www.manutd.com/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Manchester United News, Scores, Stats, Rumors & More - ESPN",
+      "link": "https://www.espn.com/soccer/team/_/id/360",
+      "displayed_link": "https://www.espn.com › soccer › team",
+      "snippet": "Visit ESPN to view the latest Manchester United news, scores, stats, standings, rumors, and more.",
+      "snippet_highlighted_words": [
+        "Manchester United"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ESPN is an American international basic cable sports channel owned by ESPN Inc., owned jointly by The Walt Disney Company and Hearst Communications. The company was founded in 1979 by Bill Rasmussen along with his son Scott Rasmussen and Ed Eagan.",
+          "icon": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/97b3bb4d322ec17f21a8970dd00fa9f00ea8b597b352f68c1b1047ef893745109a69c6c718e7b2bfd1db0f81183ca8d9.png"
+        },
+        "keywords": [
+          "manchester",
+          "united"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "the United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.espn.com/soccer/team/_/id/360&tbm=ilp&ilps=ADNMCi28A2KqE7K1vBnJL8p_0ysCy23iGw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8KCvTtjLIjsJ:https://www.espn.com/soccer/team/_/id/360+&cd=25&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Manchester United F.C. - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Manchester_United_F.C.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Manchester_United_F.C.",
+      "snippet": "Manchester United Football Club, commonly referred to as Man United is a professional football club based in the Old Trafford area of Manchester, England.",
+      "snippet_highlighted_words": [
+        "Manchester United"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "League: Premier League",
+            "Nickname(s): The Red Devils; United",
+            "2021–22: Premier League, 6th of 20‎",
+            "Owner: Manchester United plc (‎NYSE‎: MANU)‎"
+          ],
+          "detected_extensions": {
+            "premier_league_th_of": 2021
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+          "icon": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/97b3bb4d322ec17f21a8970dd00fa9f06f28b1ee32866abefd45f0d6d366ae3de02c462968e7e4f493f6c59046a43080.png"
+        },
+        "keywords": [
+          "manchester",
+          "united"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "the United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Manchester_United_F.C.&tbm=ilp&ilps=ADNMCi25XH2fB2Rl2f1UXoggriwWMz4p1Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HSrEjIMMKy8J:https://en.wikipedia.org/wiki/Manchester_United_F.C.+&cd=40&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Manchester_United_F.C.+manchester+united"
+    },
+    {
+      "position": 4,
+      "title": "Manchester United - Home | Facebook",
+      "link": "https://www.facebook.com/manchesterunited/",
+      "displayed_link": "https://www.facebook.com › ... › Sports team",
+      "snippet": "Manchester United, Manchester, United Kingdom. 74999222 likes · 793770 talking about this · 77996 were here. Welcome to the Official Manchester...",
+      "snippet_highlighted_words": [
+        "Manchester United",
+        "Manchester",
+        "United"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.facebook.com",
+          "icon": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/97b3bb4d322ec17f21a8970dd00fa9f052595e90e4100e1b98ba91a3299da2637d7fd2429684f31b7d705a391c622334.png"
+        },
+        "keywords": [
+          "manchester",
+          "united"
+        ],
+        "related_keywords": [
+          "manchesterunited"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "the United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/manchesterunited/&tbm=ilp&ilps=ADNMCi3ToO_CPv4hRPkKwBe08gK2zHqkWg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y0Tie0kAaRkJ:https://www.facebook.com/manchesterunited/+&cd=41&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.facebook.com/manchesterunited/+manchester+united"
+    },
+    {
+      "position": 5,
+      "title": "Manchester United (@manchesterunited) • Instagram photos ...",
+      "link": "https://www.instagram.com/manchesterunited/?hl=en",
+      "displayed_link": "https://www.instagram.com › manchesterunited",
+      "snippet": "58.7m Followers, 131 Following, 22.3k Posts - See Instagram photos and videos from Manchester United (@manchesterunited)",
+      "snippet_highlighted_words": [
+        "Manchester United",
+        "manchesterunited"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.instagram.com",
+          "icon": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/97b3bb4d322ec17f21a8970dd00fa9f0b54c4f8c8389ace6be5ebfea1077a3981694d9839b091fdb42b5803c3fa4b644.png"
+        },
+        "keywords": [
+          "manchester",
+          "united"
+        ],
+        "related_keywords": [
+          "manchesterunited"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "the United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/manchesterunited/?hl%3Den&tbm=ilp&ilps=ADNMCi1jKD2qVTL5M53hQgGbt0bgcr6omQ",
+      "cached_page_link": "/search?q=related:https://www.instagram.com/manchesterunited/%3Fhl%3Den+manchester+united"
+    },
+    {
+      "position": 6,
+      "title": "Manchester United - News, Schedule, Scores, Roster, and Stats",
+      "link": "https://theathletic.com/team/manchester-united/",
+      "displayed_link": "https://theathletic.com › team › manchester-united",
+      "date": "2 hours ago",
+      "snippet": "Breaking Manchester United news and in-depth analysis from the best newsroom in sports. Follow your favorite clubs. Get the latest injury updates, ...",
+      "snippet_highlighted_words": [
+        "Manchester United"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Brighton @ Man Utd"
+          },
+          {
+            "date": "Man Utd @ Brentford"
+          },
+          {
+            "date": "Liverpool @ Man Utd"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "sun_aug": null,
+            "price": null,
+            "currency": "Sat Aug"
+          },
+          "extensions": [
+            "Sun, Aug 7",
+            "Brighton @ Man Utd",
+            "Sat, Aug 13",
+            "Man Utd @ Brentford",
+            "Sat, Aug 20",
+            "Liverpool @ Man Utd"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "theathletic.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b1091b35176471075fbb97/images/97b3bb4d322ec17f21a8970dd00fa9f09f3292a68606ed950893d16d976d8963338991d509fced2b62b8015e7953ea91.png"
+        },
+        "keywords": [
+          "manchester",
+          "united"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "the United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://theathletic.com/team/manchester-united/&tbm=ilp&ilps=ADNMCi1Wg1hGqeK8yaxszoR1OaTuX6Ed6w"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "manchester united game",
+      "link": "https://www.google.com/search?q=Manchester+United+game&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgvEAE"
+    },
+    {
+      "query": "manchester united live",
+      "link": "https://www.google.com/search?q=Manchester+United+live&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAguEAE"
+    },
+    {
+      "query": "manchester united metro",
+      "link": "https://www.google.com/search?q=Manchester+United+Metro&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgtEAE"
+    },
+    {
+      "query": "manchester united transfer news",
+      "link": "https://www.google.com/search?q=Manchester+United+transfer+News&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgqEAE"
+    },
+    {
+      "query": "manchester united vs liverpool",
+      "link": "https://www.google.com/search?q=Manchester+United+vs+Liverpool&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgpEAE"
+    },
+    {
+      "query": "manchester united fixtures",
+      "link": "https://www.google.com/search?q=Manchester+United+fixtures&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgoEAE"
+    },
+    {
+      "query": "manchester united next match",
+      "link": "https://www.google.com/search?q=Manchester+United+next+match&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgxEAE"
+    },
+    {
+      "query": "manchester united news",
+      "link": "https://www.google.com/search?q=Manchester+United+news&sa=X&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ1QJ6BAgwEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=10&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8NMDegQIAhBK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=10&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhA4",
+      "3": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=20&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhA6",
+      "4": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=30&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhA8",
+      "5": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=40&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhA-",
+      "6": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=50&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhBA",
+      "7": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=60&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhBC",
+      "8": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=70&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhBE",
+      "9": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=80&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhBG",
+      "10": "https://www.google.com/search?q=manchester+united&ei=GwmxYo7APKe3ggfJiJCQDA&start=90&sa=N&ved=2ahUKEwjOuf3Jnb34AhWnm-AKHUkEBMIQ8tMDegQIAhBI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=austin%2C+texas%2C+united+states&q=manchester+united&start=90"
+    }
+  }
+}
